@@ -11,6 +11,7 @@ public class AlienShip {
     private int shieldStrength;
     public String shipName;
     public AlienShip(){
+//hello
         numShips++;
         this.setShieldStrength(100);
     }
